@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/books_1f4da.png" width="100" alt="GoodQuotes Logo">
-</p>
-
-<h1 align="center"><b>📚 GoodQuotes 📚</b></h1>
+<h3 align="center"><b>📚 GoodQuotes 📚</b></h3>
 
 <p align="center">A Go package for scraping quotes from Goodreads.</p>
 
